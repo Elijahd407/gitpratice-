@@ -6,7 +6,8 @@ Verison 1.0
 
 	> Application should perform functions quickly and be responsive.
     
-	> Navigation should be smooth and intuitive. Allowing access to specific options and core features such as creating new list, editing list and deleting   list to require minimum effort.
+	> Navigation should be smooth and intuitive. Allowing access to specific options and core 
+	  features such as creating new list, editing list and deleting list to require minimum effort.
     
  	> Data requirements should be minimized with application focusing on minimal CPU and memory consumption
     
